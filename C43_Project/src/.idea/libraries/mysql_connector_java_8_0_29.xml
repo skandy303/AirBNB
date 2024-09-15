@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.29">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.29 2/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-opennlp-2.0.0 2/lib/opennlp-tools-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-opennlp-2.0.0 2/lib/opennlp-uima-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
